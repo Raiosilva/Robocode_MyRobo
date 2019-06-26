@@ -1,6 +1,6 @@
 ﻿
 //Raimundo Jose Oliveira da Silva
-//Robô desenvolvido em C# - Visual Studio 2019, submetido ao processo seletivo da empresa Solutis
+//Robô desenvolvido em C# - Visual Studio 2019
 //Referência: https://robocode.sourceforge.io/docs/robocode.dotnet/Index.html
 
 
